@@ -1,5 +1,5 @@
 # Heart-Led
-Heart Led is a Simple interactive heart led display using a 555 timer ciruct with speed controlled by a potentiometer
+Heart Led is an interactive LED display using a 555 timer circuit with speed controlled by a potentiometer
 <div></div>
 <img width="695" height="417" alt="heartledchaser" src="https://github.com/user-attachments/assets/98020ff8-0afd-4a6d-98cb-f26bab4ec3ba" />
 <img src="https://stasis.hackclub-assets.com/images/1776729626968-9be5un.png" alt="image"/>
